@@ -1,0 +1,10 @@
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\bin\Debug\FileAutoNumerator.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\bin\Debug\FileAutoNumerator.exe
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\bin\Debug\FileAutoNumerator.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Debug\FileAutoNumerator.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Debug\FileAutoNumerator.Form1.resources
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Debug\FileAutoNumerator.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Debug\FileAutoNumerator.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Debug\FileAutoNumerator.exe
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Debug\FileAutoNumerator.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Debug\FileAutoNumerator.FormatDialog.resources

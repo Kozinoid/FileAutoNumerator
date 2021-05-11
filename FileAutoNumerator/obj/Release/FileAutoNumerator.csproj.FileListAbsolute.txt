@@ -1,0 +1,20 @@
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\bin\Release\FileAutoNumerator.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\bin\Release\FileAutoNumerator.exe
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\bin\Release\FileAutoNumerator.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.Form1.resources
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.FormatDialog.resources
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.exe
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\bin\Release\FileAutoNumerator.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\bin\Release\FileAutoNumerator.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\bin\Release\FileAutoNumerator.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.FormatDialog.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\FileAutoNumerator\FileAutoNumerator\obj\Release\FileAutoNumerator.csproj.GenerateResource.Cache
